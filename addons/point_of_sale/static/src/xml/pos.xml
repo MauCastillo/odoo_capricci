@@ -1446,7 +1446,7 @@
             
             <div class="pos-center-align"><t t-esc="order.formatted_validation_date"/> <t t-esc="order.name"/>
             <br />
-            <img src="https://res.cloudinary.com/dd7j5cf6d/image/upload/v1554303925/Logo-Capicci-di-pizza-png-compressor.png"  width="60" height="58" class="oe_kanban_avatar pull-right"/>
+            <img src="https://res.cloudinary.com/dd7j5cf6d/image/upload/v1554303925/Logo-Capicci-di-pizza-png-compressor.png"  width="60" height="58"/>
             <br />
             </div>
             
